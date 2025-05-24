@@ -1,0 +1,12 @@
+name: SiPREDIK
+title: SiPREDIK
+username: debtl1-muiz-zadin
+account: debtl1-muiz-zadin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14818161
+bundleId: 10335770
+url: https://debtl1-muiz-zadin.shinyapps.io/SiPREDIK/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
